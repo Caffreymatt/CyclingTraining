@@ -62,6 +62,7 @@ Rules:
 - No bullets outside the prescribed lines; no extra text before/after the block.
 - If the main set has multiple intervals, put “Main set <count>x” and list just the work and recovery lines for one set; the count implies repetition.
 - If user provides constraints (total duration, zones, cadence, goals, equipment), respect them strictly.
+- Create the program for 6 days of work. 
 
 
 When the user asks for a workout, output only the block in the exact format above, no explanations.
