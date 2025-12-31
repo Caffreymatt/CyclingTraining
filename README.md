@@ -1,5 +1,31 @@
 # CyclingTraining
-This is where I store Cycling Training Agent Information
+
+#This is for use with the program https://intervals.icu/#
+
+It will spit out a form factor which will look like this. 
+
+**Day 2 – Threshold Intervals**
+15m 60% (162w) 85-95rpm
+Main set 4x
+10m 95% (256w) 90-100rpm smooth power
+5m recovery at 55% (148w)
+10m 95% (256w) 90-100rpm smooth power
+5m recovery at 55% (148w)
+10m 95% (256w) 90-100rpm smooth power
+5m recovery at 55% (148w)
+10m 95% (256w) 90-100rpm smooth power
+5m recovery at 55% (148w)
+Cooldown
+10m 60% (162w) 85-95rpm
+
+Just copy and paste this into a new workout within the program.
+
+<img width="700" height="775" alt="image" src="https://github.com/user-attachments/assets/5fc112dc-8837-4d78-82fe-013fb4fc6106" />
+
+Once done hit OK.
+
+
+
 
 
 #Agent Name#
